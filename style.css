@@ -1,0 +1,33 @@
+body{
+    color: #4d1207;
+    background-color: #f8efc2;
+    font-family:'Source Code Pro', monospace;
+}
+h1{
+    color:#2c0c18 ;
+    font-size: 55px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    color:#47201a;
+}
+img{
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+}
+footer{
+    background-color:#f2a18d ;
+   padding: 20px; 
+   font-size: 20px;
+   text-align: center;
+}
+footer a{
+    color: #584907;
+}
+body a{
+    color: #3d0f03;
+}
